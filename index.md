@@ -20,7 +20,7 @@ Topics of interest:
 Contributions focus on novel research aspects but do not have to provide unpublished material. Presentations, posters, or demos can be an overview of the participant’s research fields including challenges, open topics, and problems in current research. 
 The aim is to bring together young researchers with similar topics and provide a basis for fruitful scientific discussions, motivating future cooperation.
 
-# Important dates
+## Important dates
 
 * **25-27 July 2022** Summer School takes place
  

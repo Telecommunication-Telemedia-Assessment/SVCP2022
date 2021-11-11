@@ -19,6 +19,9 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 ## Registration
 **REGISTRATION /COSTS**
 
+## Important dates
+
+* **25-27 July 2022** Summer School takes place
 
 ## Awards
 ### Best Presentation Award

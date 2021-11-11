@@ -12,7 +12,7 @@ __The two centers stand for technology and information transfer in the triangle 
 * Location: **Ehrenbergstraße 29, 98693 Ilmenau, Deutschland** (**TODO**, change to the corresponding building)
 * 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.938319265842438%2C50.68055070913651%2C10.941859781742096%2C50.68211258279146&amp;layer=mapnik&amp;marker=50.68133250222997%2C10.940089523792267" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68133&amp;mlon=10.94009#map=19/50.68133/10.94009" target="_blank">show larger map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93682259321213%2C50.68102998383861%2C10.941301882267%2C50.68259184154214&amp;layer=mapnik&amp;marker=50.68181176894768%2C10.939062237739563" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68181&amp;mlon=10.93906#map=19/50.68181/10.93906" target="_blank">show lager map</a></small>
 
 
 ## Venue
