@@ -22,7 +22,7 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ## Important dates
 
-* **25-27 July 2022** Summer School takes place
+* **11-13 July 2022** Summer School takes place
  
 
 
