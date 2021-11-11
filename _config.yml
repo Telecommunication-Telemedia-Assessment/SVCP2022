@@ -22,7 +22,7 @@ title: SVCP2022 - Summer School on Video Coding and Processing
 #email: your-email@example.com
 #description: " Write an awesome description for your new site here."
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/SVCP2022" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
@@ -33,6 +33,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+exclude:
+    - README.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
