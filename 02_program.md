@@ -2,6 +2,7 @@
 layout: page
 title: "Program"
 permalink: /program/
+photo: "hearling_lab.jpg"
 ---
 _to be announced_
 

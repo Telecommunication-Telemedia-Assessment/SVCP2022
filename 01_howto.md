@@ -2,6 +2,7 @@
 layout: page
 title: "How to participate"
 permalink: /howto/
+photo: "ml2.jpg"
 ---
 
 The summer school is open for PhD and advanced master students, for post docs, and academic advisors working in the research areas listed. 

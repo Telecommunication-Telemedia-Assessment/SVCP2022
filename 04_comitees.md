@@ -4,7 +4,7 @@ title: "Committees"
 permalink: /committees/
 ---
 
-# Scientific Chairs
+## Scientific Chairs
 
 * André Kaup, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
 * Jens-Rainer Ohm, RWTH Aachen University, Germany
@@ -12,7 +12,7 @@ permalink: /committees/
 * Alexander Raake, TU Ilmenau, Germany
 
 
-# Organizing Committee
+## Organizing Committee
 
 * Alexander Raake, TU Ilmenau, Germany
 * Monique Rodegast, TU Ilmenau, Germany

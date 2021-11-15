@@ -25,6 +25,7 @@ title: SVCP2022 - Summer School on Video Coding and Processing
 baseurl: "/SVCP2022" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+author: "Audiovisual Technology Group; [TU Ilmenau](https://www.tu-ilmenau.de/en/), [Imprint](https://www.tu-ilmenau.de/impressum/)"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -35,6 +36,7 @@ plugins:
 
 exclude:
     - README.md
+    - dev/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
