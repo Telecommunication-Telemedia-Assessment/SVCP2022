@@ -15,10 +15,10 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 
 
 ## Submission
-**SUBMISSION LINK**
+**SUBMISSION LINK**  _will be added soon_
 
 ## Registration
-**REGISTRATION /COSTS**
+**REGISTRATION LINK** _will be added soon_
 
 ## Important dates
 
