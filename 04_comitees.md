@@ -2,6 +2,7 @@
 layout: page
 title: "Committees"
 permalink: /committees/
+photo: "header-silhouetten2_im_studio_michael_reichelt_1920q.jpg"
 ---
 
 ## Scientific Chairs
