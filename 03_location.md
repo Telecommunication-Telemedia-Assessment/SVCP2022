@@ -57,7 +57,7 @@ The TU Ilmenau has a total of 5 academic departments (faculties) and about 5,200
 
 _Text taken and translated from the German and English Wikipedia articles about TU Ilmenau._
 
-Watch our [TU Ilmenau image movie](https://www.youtube.com/watch?time_continue=2&v=UIDUHVZVIgA).
+* Watch our [TU Ilmenau image movie](https://www.youtube.com/watch?time_continue=2&v=UIDUHVZVIgA).
 
 
 
