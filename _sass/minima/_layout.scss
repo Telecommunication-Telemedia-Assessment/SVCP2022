@@ -45,11 +45,7 @@
       margin-right: 20px;
     }
   }
-  @include media-query($on-palm) {
-    .page-link {
-    background-color: #ff0000;
-    }
-  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
