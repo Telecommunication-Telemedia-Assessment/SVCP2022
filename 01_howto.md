@@ -16,7 +16,9 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 
 
 ## Submission
-**SUBMISSION LINK**  _will be added soon_
+For the submission, a title, an abstract (200 words), the name of the author(s), and an email address and affiliation of the presenting author are required.
+
+**<a href="https://forms.gle/AXNcvgL7TkZaFQrL6" target="_blank">Submission link</a>**  
 
 ## Registration
 **REGISTRATION LINK** _will be added soon_
