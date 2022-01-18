@@ -8,7 +8,8 @@ photo: "ml2.jpg"
 The summer school is open for PhD and advanced master students, for post docs, and academic advisors working in the research areas listed. 
 The working language at the summer school is English. 
 Participants are encouraged to present and discuss their research in oral and poster presentations.
-To apply for a presentation, participants needed to submit a title, a short abstract (approximately 200 words), and preference oral/poster. 
+To apply for a presentation, participants needed to submit a title, and a short abstract (approximately 200 words). 
+Presentations will be oral. 
 Upon acceptance, participants need to register for the Summer School.  
 Participants without a presentation are welcome and requested to register.
 Submission/Registration/Payment and Important Dates are provided in the sections below.
@@ -23,6 +24,7 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 ## Important dates
 
 * Summer School takes place: **4-5 July 2022** 
+* Get Together: **3rd July 2022** evening
 
 ## Awards
 ### Best Presentation Award

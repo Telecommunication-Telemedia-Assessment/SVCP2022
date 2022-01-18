@@ -8,14 +8,24 @@ _to be announced_
 
 ## Invited Lecture
 
+_to be announced_
+
+<!--
 * Lecturer: XYZ
 * Title: "do be defined"
 * Abstract: "todo"
+-->
 
-## Presentations
+## Schedule 
+_to be announced_
 
 ## Social Events
+
+_to be announced_
+
+<!--
 **TODO**
+-->
 
 <!--
 * lab tours (AVLabs, hearing lab, medialab II)

@@ -8,10 +8,12 @@ The summer school takes place at the [TU Ilmenau](https://www.tu-ilmenau.de) and
 
 
 ## How to get here?
-* Location: **Ehrenbergstraße 29, 98693 Ilmenau, Deutschland** (**TODO**, change to the corresponding building)
-* 
+* Location 1: **Medialab II (Room 104), Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93682259321213%2C50.68102998383861%2C10.941301882267%2C50.68259184154214&amp;layer=mapnik&amp;marker=50.68181176894768%2C10.939062237739563" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68181&amp;mlon=10.93906#map=19/50.68181/10.93906" target="_blank">show lager map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show lager map</a></small>
+
+* Location 2: **Conference Room Zuse Building, Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
+    * ask at the reception in Medialab II
 
 
 ## Accomodations
