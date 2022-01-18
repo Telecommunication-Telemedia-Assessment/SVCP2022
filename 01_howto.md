@@ -41,6 +41,6 @@ For this you need to team up with an SVCP colleague from another institution tha
 Prepare a research paper together with your colleague(s) about the outcome of your joint research and submit this to a conference or journal. 
 If this paper gets accepted for a conference or preliminarily accepted subject to a revision for a journal by the date of the next SVCP in July 2023, you may apply for the award.
 
-For application please send your paper including acceptance notice to Prof. André Kaup (**TODO email**), spokesperson of the ITG Technical Committee MT 2, before next SVCP in July 2023. 
+For application please send your paper including acceptance notice to <a href="mailto:andre.kaup@fau.de" target="_blank">Prof. André Kaup</a>, spokesperson of the ITG Technical Committee MT 2, before next SVCP in July 2023. 
 Decision for the award is based on novelty, clarity, and team involvement and will be taken by the ITG Technical Committee MT 2. 
 Up to two awards will be given, each one comes with a certificate and a prize money of 1.000 Euro.
