@@ -7,7 +7,7 @@ photo: "ml2.jpg"
 
 The summer school is open for PhD and advanced master students, for post docs, and academic advisors working in the research areas listed. 
 The working language at the summer school is English. 
-Participants are encouraged to present and discuss their research in oral and poster presentations.
+Participants are encouraged to present and discuss their research in oral presentations.
 To apply for a presentation, participants needed to submit a title, and a short abstract (approximately 200 words). 
 Presentations will be oral. 
 Upon acceptance, participants need to register for the Summer School.  
