@@ -23,10 +23,12 @@ photo: "hearling_lab.jpg"
 | 19:00			| Pre-School Event at BC club| Social Event at Gabelbach	|                            |
 
 
-## Get Togehter 
+
+## Pre-School Event (Get Togehter)
 The get togehter will be held on Sunday, **03 July 2022** at the [BC-club](https://bc-club.de/) (studentclub of ilmenau).
 <a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 19:00.
 
+_details will be announced soon_ 
 
 ## Keynote/Invited Lecture
 
@@ -40,14 +42,24 @@ _to be announced_
 
 
 ## Social Events
-
 _to be announced_
-
 ## Session 1
 _to be announced_
 ## Session 2
 _to be announced_
 ## Session 3
+_to be announced_
+## Session 4
+_to be announced_
+## Session 5
+_to be announced_
+## Session 6
+_to be announced_
+## Session 7
+_to be announced_
+## Session 8
+_to be announced_
+## Session 9
 _to be announced_
 
 
