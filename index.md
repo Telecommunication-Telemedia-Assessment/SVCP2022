@@ -23,8 +23,8 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ## Important dates
 
-* Get Together: **3rd July 2022** evening
-* Summer School takes place: **4-5 July 2022** 
+* Pre-School Event: evening of **03 July 2022** 
+* Summer School: **04 - 05 July 2022** 
 
 
 
