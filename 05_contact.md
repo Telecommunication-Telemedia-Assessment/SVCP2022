@@ -7,4 +7,4 @@ photo: "header-heatmap-concert_1920q.jpg"
 
 In case you have any questions please contact:
 
-* <a href="mailto:alexander.raake@tu-ilmenau.de">Alexander Raake</a>   
+* <a href="mailto:alexander.raake@tu-ilmenau.de">Prof. Dr.-Ing. Alexander Raake</a>   

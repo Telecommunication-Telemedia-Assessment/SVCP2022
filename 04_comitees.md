@@ -7,10 +7,10 @@ photo: "header-silhouetten2_im_studio_michael_reichelt_1920q.jpg"
 
 ## Scientific Chairs
 
-* André Kaup, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
-* Jens-Rainer Ohm, RWTH Aachen University, Germany
-* Dietmar Saupe, University of Konstanz, Germany
-* Alexander Raake, TU Ilmenau, Germany
+* Prof. Dr.-Ing. André Kaup, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
+* Prof. Dr.-Ing. Jens-Rainer Ohm, RWTH Aachen University, Germany
+* Prof. Dr. Dietmar Saupe, University of Konstanz, Germany
+* Prof. Dr.-Ing. Alexander Raake, TU Ilmenau, Germany
 
 
 ## Organizing Committee
@@ -21,5 +21,5 @@ photo: "header-silhouetten2_im_studio_michael_reichelt_1920q.jpg"
 * Luljeta Sinani, TU Ilmenau
 * Rakesh Rao Ramachandra Rao, TU Ilmenau
 * Eckhardt Schön, TU Ilmenau 
-* Dominik Keller, TU Ilmenau
+* [Dominik Keller, TU Ilmenau](https://www.tu-ilmenau.de/mt-avt/team-fachgebiet-audiovisuelle-technik/dominik-keller
 
