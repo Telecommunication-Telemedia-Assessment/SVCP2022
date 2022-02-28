@@ -21,5 +21,5 @@ photo: "header-silhouetten2_im_studio_michael_reichelt_1920q.jpg"
 * Luljeta Sinani, TU Ilmenau
 * Rakesh Rao Ramachandra Rao, TU Ilmenau
 * Eckhardt Schön, TU Ilmenau 
-* [Dominik Keller, TU Ilmenau](https://www.tu-ilmenau.de/mt-avt/team-fachgebiet-audiovisuelle-technik/dominik-keller
+* [Dominik Keller, TU Ilmenau](https://www.tu-ilmenau.de/mt-avt/team-fachgebiet-audiovisuelle-technik/dominik-keller)
 
