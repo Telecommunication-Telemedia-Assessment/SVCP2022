@@ -28,6 +28,9 @@ For the submission, a title, an abstract (200 words), the name of the author(s),
 * Summer School takes place: **4-5 July 2022** 
 * Get Together: **3rd July 2022** evening
 
+* Submission deadline: _to be announced_ 
+* Registration opens: _to be announced_
+
 ## Awards
 ### Best Presentation Award
 Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation. 

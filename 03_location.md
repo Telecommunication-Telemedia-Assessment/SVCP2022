@@ -18,7 +18,7 @@ The summer school takes place at the [TU Ilmenau](https://www.tu-ilmenau.de) and
 
 ## Accomodations
 
-
+_will be updated soom_
 ### Hotel Tanne Ilmenau
 The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is a modern hotel, centrally located in the Goethe and university city of Ilmenau. 
 A block of rooms has been reserved for the workshop period:

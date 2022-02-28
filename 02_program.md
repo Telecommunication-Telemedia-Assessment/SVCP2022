@@ -4,9 +4,25 @@ title: "Program"
 permalink: /program/
 photo: "hearling_lab.jpg"
 ---
+
+
+| Time         | Sunday (3rd July 2022)     | Monday (4th July 2022)      | Thuesday (5th July 2022)   |
+| ======       | ========================== | =========================== | ========================== |
+|              |                            |                             |                            |
+| 9:00- 10:00  |                            | Welcome and Keynote         |                            |
+| 10:00- 10:45 |                            | Session 1                   |                            |
+|              |                            |                             |                            |
+|              |                            |                             |                            |
+|              |                            |                             |                            |
+|              |                            |                             |                            |
+|              |                            |                             |                            |
+|              | get togehter               |                             |                            |
+
+
+## Get Togehter 
 _to be announced_
 
-## Invited Lecture
+## Keynote/Invited Lecture
 
 _to be announced_
 
@@ -16,12 +32,18 @@ _to be announced_
 * Abstract: "todo"
 -->
 
-## Schedule 
-_to be announced_
 
 ## Social Events
 
 _to be announced_
+
+## Session 1
+_to be announced_
+## Session 2
+_to be announced_
+## Session 3
+_to be announced_
+
 
 <!--
 **TODO**
