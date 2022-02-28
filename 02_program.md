@@ -24,7 +24,7 @@ photo: "hearling_lab.jpg"
 
 
 
-## Pre-School Event (Get Togehter)
+## Pre-School Event
 The get togehter will be held on Sunday, **03 July 2022** at the [BC-club](https://bc-club.de/) (studentclub of ilmenau).
 <a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 19:00.
 
