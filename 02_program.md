@@ -6,7 +6,7 @@ photo: "hearling_lab.jpg"
 ---
 
 
-| Time          | Sunday,**03 July 2022**    | Monday, **04 July 2022**    	| Tuesday, **05 July 2022**  |
+| Time          | Sunday, **03 July 2022**   | Monday, **04 July 2022**    	| Tuesday, **05 July 2022**  |
 | ======        | ========================== | =========================== 	| ========================== |
 | 08:00  	   	|                            | Registration and Preparation	| Session 7					 |	
 | 09:00 	   	|                            | Welcome and Keynote         	| Coffee Break and Demos     |
