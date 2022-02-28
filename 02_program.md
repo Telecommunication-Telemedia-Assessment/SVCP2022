@@ -23,7 +23,7 @@ photo: "hearling_lab.jpg"
 | 19:00			| Pre-School Event at BC club| Social Event at Gabelbach	|                            |
 
 
-## Get Togehter 
+## Pre-School Event
 _to be announced_
 
 ## Keynote/Invited Lecture
@@ -38,14 +38,24 @@ _to be announced_
 
 
 ## Social Events
-
 _to be announced_
-
 ## Session 1
 _to be announced_
 ## Session 2
 _to be announced_
 ## Session 3
+_to be announced_
+## Session 4
+_to be announced_
+## Session 5
+_to be announced_
+## Session 6
+_to be announced_
+## Session 7
+_to be announced_
+## Session 8
+_to be announced_
+## Session 9
 _to be announced_
 
 
