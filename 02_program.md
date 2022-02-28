@@ -8,13 +8,13 @@ photo: "hearling_lab.jpg"
 
 | Time          | Sunday, **03 July 2022**   | Monday, **04 July 2022**    	| Tuesday, **05 July 2022**  |
 | ======        | ========================== | =========================== 	| ========================== |
-| 08:00  	   	|                            | Registration and Preparation	| Session 7					 |	
-| 09:00 	   	|                            | Welcome and Keynote         	| Coffee Break and Demos     |
-| 10:00        	|                            | Session 1                 	| Session 8 				 |
-| 10:45			|                            | Coffee Break and Demos	   	| Session 9				     |
-| 11:30			|                            | Session 2					| Summary and Closure        |
-| 12:15			|                            | Session 3					| Networking Lunch at ML2    |
-| 13:00			|                            | Lunch Break at Mensa			|                            |
+| 08:00  	   	|                            | Registration and Preparation	| Preparation				 |	
+| 09:00 	   	|                            | Welcome and Keynote         	| Session 7	    			 |
+| 10:00        	|                            | Session 1                 	| Coffee Break and Demos 	 |
+| 10:45			|                            | Coffee Break and Demos	   	| Session 8				     |
+| 11:30			|                            | Session 2					| Session 9        			 |
+| 12:15			|                            | Session 3					| Summary and Closure		 |
+| 13:00			|                            | Lunch Break at Mensa			| Networking Lunch at ML2    |
 | 14:00			|                            | Session 4					|                            |
 | 14:45			| 				             | Session 5					|                            |
 | 15:30			| 				             | Coffee Break and Demos	   	|                            |

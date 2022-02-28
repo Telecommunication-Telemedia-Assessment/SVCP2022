@@ -24,7 +24,7 @@ The aim is to bring together young researchers with similar topics and provide a
 ## Important dates
 
 * Pre-School Event: evening of **03 July 2022** 
-* Summer School: **04 - 05 July 2022** 
+* Summer School: **04 -- 05 July 2022** 
 
 
 

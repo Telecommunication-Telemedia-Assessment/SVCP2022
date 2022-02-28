@@ -14,6 +14,8 @@ Upon acceptance, participants need to register for the Summer School.
 Participants without a presentation are welcome and requested to register.
 Submission/Registration/Payment and Important Dates are provided in the sections below.
 
+**Important: The whole summer school will be conducted in accordance to [TU Ilmenau's COVID-19 rules](https://www.tu-ilmenau.de/en/university/quicklinks/corona-information). Rules may change.**
+
 
 ## Submission
 For the submission, a title, an abstract (200 words), the name of the author(s), and an email address and affiliation of the presenting author are required.
@@ -25,7 +27,7 @@ For the submission, a title, an abstract (200 words), the name of the author(s),
 
 ## Important dates
 * Pre-School Event: evening of **03 July 2022**
-* Summer School: **04 - 05 July 2022** 
+* Summer School: **04 -- 05 July 2022** 
 
 * Submission deadline: _to be announced_ 
 * Registration opens: _to be announced_
