@@ -6,7 +6,7 @@ photo: "hearling_lab.jpg"
 ---
 
 
-| Time          | Sunday,**03 July 2022**    | Monday, **04 July 2022**    	| Tuesday, **05 July 2022**  |
+| Time          | Sunday, **03 July 2022**   | Monday, **04 July 2022**    	| Tuesday, **05 July 2022**  |
 | ======        | ========================== | =========================== 	| ========================== |
 | 08:00  	   	|                            | Registration and Preparation	| Session 7					 |	
 | 09:00 	   	|                            | Welcome and Keynote         	| Coffee Break and Demos     |
@@ -24,7 +24,9 @@ photo: "hearling_lab.jpg"
 
 
 ## Get Togehter 
-_to be announced_
+The get togehter will be held on Sunday, **03 July 2022** at the [BC-club](https://bc-club.de/) (studentclub of ilmenau).
+<a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 19:00.
+
 
 ## Keynote/Invited Lecture
 
