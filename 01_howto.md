@@ -25,7 +25,9 @@ For the submission, a title, an abstract (200 words), the name of the author(s),
 ## Registration
 **REGISTRATION LINK** _will be added soon_
 
-## Important dates
+Price: _will be added soon_
+
+## Important Dates
 * Pre-School Event: evening of **03 July 2022**
 * Summer School: **04 -- 05 July 2022** 
 

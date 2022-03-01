@@ -10,22 +10,22 @@ photo: "hearling_lab.jpg"
 | ======        | ========================== | =========================== 	| ========================== |
 | 08:00  	   	|                            | Registration and Preparation	| Preparation				 |	
 | 09:00 	   	|                            | Welcome and Keynote         	| Session 7	    			 |
-| 10:00        	|                            | Session 1                 	| Coffee Break and Demos 	 |
-| 10:45			|                            | Coffee Break and Demos	   	| Session 8				     |
+| 10:00        	|                            | Session 1                 	| _Coffee Break_ and Demos 	 |
+| 10:45			|                            | _Coffee Break_ and Demos	   	| Session 8				     |
 | 11:30			|                            | Session 2					| Session 9        			 |
 | 12:15			|                            | Session 3					| Summary and Closure		 |
-| 13:00			|                            | Lunch Break at Mensa			| Networking Lunch at ML2    |
+| 13:00			|                            | _Lunch Break_ at Mensa		| Networking _Lunch_ at ML2  |
 | 14:00			|                            | Session 4					|                            |
-| 14:45			| 				             | Session 5					|                            |
-| 15:30			| 				             | Coffee Break and Demos	   	|                            |
-| 16:15			| 				             | Session 6					|                            |
+| 14:45			| 				             | Session 5					| potential departure		 |
+| 15:30			| 				             | _Coffee Break_ and Demos	   	|                            |
+| 16:15			| potential arrival			 | Session 6					|                            |
 | 17:30			| 				             | Networking Hike to Gabelbach |                            |
 | 19:00			| Pre-School Event at BC club| Social Event at Gabelbach	|                            |
 
 
 
 ## Pre-School Event
-The pre-school event will be held on Sunday, **03 July 2022** at the [BC-club](https://bc-club.de/) (studentclub of ilmenau).
+The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
 <a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 19:00.
 
 _details will be announced soon_ 
@@ -41,8 +41,9 @@ _to be announced_
 -->
 
 
-## Social Events
-_to be announced_
+## Social Event
+It is planned to have a networking hike towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, a joint dinner will take place. 
+
 ## Session 1
 _to be announced_
 ## Session 2
