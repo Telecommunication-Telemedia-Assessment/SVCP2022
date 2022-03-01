@@ -25,7 +25,7 @@ title: SVCP2022 - Summer School on Video Coding and Processing
 baseurl: "/SVCP2022" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-author: "[Audiovisual Technology Group](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/audiovisual-technology-group)             [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/)           [Imprint/Impressum](https://www.tu-ilmenau.de/impressum/)"
+author: "[Audiovisual Technology Group](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/audiovisual-technology-group) -- [Twitter](https://twitter.com/avt_imt) -- [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/) -- [Imprint/Impressum](https://www.tu-ilmenau.de/impressum/)"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
