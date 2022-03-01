@@ -37,6 +37,8 @@ Price: _will be added soon_
 ### Best Presentation Award
 Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation. 
 
+_other awards may be announced later_
+<!--
 ### Joint Research Incubator Award
 Up to two awards will be given, each one comes with a certificate and a prize money of 1.000 Euro. 
 
@@ -49,3 +51,4 @@ If this paper gets accepted for a conference or preliminarily accepted subject t
 For application please send your paper including acceptance notice to <a href="mailto:andre.kaup@fau.de" target="_blank">Prof. André Kaup</a>, spokesperson of the ITG Technical Committee MT 2, before next SVCP in July 2023. 
 Decision for the award is based on novelty, clarity, and team involvement and will be taken by the ITG Technical Committee MT 2. 
 Up to two awards will be given, each one comes with a certificate and a prize money of 1.000 Euro.
+-->
