@@ -8,42 +8,44 @@ The summer school takes place at the [TU Ilmenau](https://www.tu-ilmenau.de) and
 
 
 ## How to get here?
-Ilmenau can easily reached with Deutsche Bahn via ICE stop Erfurt. There are hourly trains going from Ilmenau to Erfurt and vice versa. 
+Ilmenau can be easily reached with Deutsche Bahn via ICE stop in Erfurt. 
+There are hourly trains going from Ilmenau to Erfurt and vice versa. 
 The Summer School will take place at the Hans-Stamm-Campus location of TU Ilmenau. 
 
 * Location 1: **Medialab II (ML2) (Room 104), Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show lager map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show map</a></small>
 
 * Location 2: **Conference Room Zuse Building, Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
     * ask at the reception in Medialab II
 
-Demos will be in other places close to Medialab II.
+Demos will be in other places near Medialab II.
 
 ## Accommodations
 
 _will be updated soon_
 ### Hotel Tanne Ilmenau
-The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is a modern hotel, centrally located in the Goethe and university city of Ilmenau. 
-A block of rooms has been reserved for the workshop period:
+The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 
+Several rooms has been reserved for the workshop period:
 
 * Standard Single Room (per night, incl. breakfast & taxes) 69.00 € (85.00 € --> updated)
 * Standard Double Room (per night, incl. breakfast & taxes) 89.00 € (115.00 €)
 
-In order to arrange your stay, please reserve your room with the keyword SVCP 2022 until **August 15, 2019** with the hotel directly: 
+In order to arrange your stay, please reserve your room with the keyword SVCP 2022 until **August 15, 2019** with the hotel: 
 
 * info@hotel-tanne-thueringen.de
 * Phone: +49 3677 6590
 
-All bookings requests are handled by the hotel on a first come first served basis.
+All booking requests are handled by the hotel on a first come first served basis.
 
 ### Hotel Mara Ilmenau
-The [Mara](https://www.mara-hotel.de/) is a hotel with a modern design and stylish ambience paired with a personal atmosphere.
-A block of rooms has been reserved for the workshop period:
+The [Mara](https://www.mara-hotel.de/) with its modern design paired with stylish ambience still manages to express a warm personal atmosphere.
+Several rooms has been reserved for the workshop period:
 
 * Standard Single Room (per night, incl. breakfast & taxes) 69.00 €
 
-In order to arrange your stay, please reserve your room with the keyword SVCP 2022 until **August 09, 2019** with the hotel. All bookings requests are handled by the hotel on a first come first served basis.
+In order to arrange your stay, please reserve your room with the keyword SVCP 2022 until **August 09, 2019** with the hotel. 
+All booking requests are handled by the hotel on a first come, first served basis.
 
 ### Other Accommodations
 In case you prefer other accommodation possibilities, the city of Ilmenau and its surroundings offer further hotels, guest houses, private rooms, apartments etc. You can find a list here:
@@ -62,7 +64,6 @@ You are also welcome to contact the tourist office of Ilmenau: stadtinfo@ilmenau
 ### Technische Universität Ilmenau
 TU Ilmenau is a German public research university. 
 It was founded in 1894 as a private educational institution named Thüringisches Technikum Ilmenau, later Engineering School. 
-After communization in 1947, it was converted into a technical college for electrical engineering and mechanical engineering in 1950 and finally into a technical university in 1992. 
 Technische Universität Ilmenau has a total of 5 academic departments (faculties) and about 5,200 students. 
 
 _Text taken and translated from the German and English Wikipedia articles about TU Ilmenau._
