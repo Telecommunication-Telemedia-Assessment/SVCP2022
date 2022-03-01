@@ -30,6 +30,10 @@ The aim is to bring together young researchers with similar topics and provide a
 * Registration opens: _to be announced_
 * Registration closes: _to be announced_
 
+## Organizers 
+
+![VDE logo](assets/images/vde.png "VDE")
+
 
 
 
