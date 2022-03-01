@@ -15,6 +15,7 @@ photo: "header-silhouetten2_im_studio_michael_reichelt_1920q.jpg"
 
 ## Organizing Committee
 
+Audiovisual Technology Group of Technische Universität Ilmenau
 * Alexander Raake, TU Ilmenau, Germany
 * Monique Rodegast, TU Ilmenau, Germany
 * [Steve Göring, TU Ilmenau, Germany](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/team-fachgebiet-audiovisuelle-technik/steve-goering)
