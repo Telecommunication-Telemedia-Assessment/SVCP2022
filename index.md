@@ -33,6 +33,7 @@ The aim is to bring together young researchers with similar topics and provide a
 ## Organizers 
 
 ![VDE logo](/assets/images/vde.png)
+
 ![ITG logo](/assets/images/itg.png)
 
 
