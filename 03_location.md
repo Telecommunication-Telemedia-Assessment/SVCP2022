@@ -45,7 +45,7 @@ Several rooms has been reserved for the workshop period:
 * Standard Single Room (per night, incl. breakfast & taxes) 69.00 €
 
 In order to arrange your stay, please reserve your room with the keyword SVCP 2022 until **August 09, 2019** with the hotel. 
-All booking requests are handled by the hotel on a first come, first served basis.
+All booking requests are handled by the hotel on a first come, first serve basis.
 
 ### Other Accommodations
 In case you prefer other accommodation possibilities, the city of Ilmenau and its surroundings offer further hotels, guest houses, private rooms, apartments etc. You can find a list here:
