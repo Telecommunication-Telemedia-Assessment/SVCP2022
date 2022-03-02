@@ -26,16 +26,16 @@ The aim is to bring together young researchers with similar topics and provide a
 * Pre-School Event: evening of **03 July 2022** 
 * Summer School: **04 -- 05 July 2022** 
 
-* Submission deadline: _to be announced_ 
-* Registration opens: _to be announced_
-* Registration closes: _to be announced_
+* Submission deadline: 25 April 2022
+* Registration opens: 15 May 2022
+* Registration closes: 13 June 2022
 
 ## Organizers 
 
 ![VDE logo](/assets/images/vde.png) 
 ![ITG logo](/assets/images/itg.png)
 
-* ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
+ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
 
 
 
