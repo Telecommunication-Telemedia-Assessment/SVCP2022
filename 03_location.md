@@ -38,18 +38,11 @@ In order to arrange your stay, please reserve your room with the keyword "SVCP 2
 
 All booking requests are handled by the hotel on a first come first served basis.
 
-### Hotel Mara Ilmenau
-The [Mara](https://www.mara-hotel.de/) with its modern design paired with stylish ambience still manages to express a warm personal atmosphere.
-Several rooms has been reserved for the workshop period:
-
-* Standard Single Room (per night, incl. breakfast & taxes) XY € <!-- 69.00 -->
-
-In order to arrange your stay, please reserve your room with the keyword "SVCP 2022" until **XYZ, 2022**  with the hotel. 
-All booking requests are handled by the hotel on a first come, first serve basis.
 
 ### Other Accommodations
 In case you prefer other accommodation possibilities, the city of Ilmenau and its surroundings offer further hotels, guest houses, private rooms, apartments etc. You can find a list here:
 
+* [Hotel Mara](https://www.mara-hotel.de/)
 * [Hotels and Guest Houses](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/hotels-and-guest-houses/)
 * [Apartments in Ilmenau](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/apartments/)
 * [Bed and Breakfast](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/bed-and-breakfast/)
