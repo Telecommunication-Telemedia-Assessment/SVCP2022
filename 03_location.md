@@ -28,10 +28,10 @@ _will be updated soon_
 The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 
 Several rooms has been reserved for the workshop period:
 
-* Standard Single Room (per night, incl. breakfast & taxes) XY € <!-- (85.00 € updated)--> 
-* Standard Double Room (per night, incl. breakfast & taxes) XY € <!-- (115.00 €) -->
+* Standard Single Room (per night, incl. breakfast & taxes) 80.00 €
+* Standard Double Room (per night, incl. breakfast & taxes) 105.00 €
 
-In order to arrange your stay, please reserve your room with the keyword "TU Ilmenau, SVCP 2022" until **XYZ, 2022** with the hotel: 
+In order to arrange your stay, please reserve your room with the keyword "SVCP 2022" until **20th June, 2022** with the hotel: 
 
 * info@hotel-tanne-thueringen.de
 * Phone: +49 3677 6590
@@ -44,7 +44,7 @@ Several rooms has been reserved for the workshop period:
 
 * Standard Single Room (per night, incl. breakfast & taxes) XY € <!-- 69.00 -->
 
-In order to arrange your stay, please reserve your room with the keyword "TU Ilmenau, SVCP 2022" until **XYZ, 2022**  with the hotel. 
+In order to arrange your stay, please reserve your room with the keyword "SVCP 2022" until **XYZ, 2022**  with the hotel. 
 All booking requests are handled by the hotel on a first come, first serve basis.
 
 ### Other Accommodations
