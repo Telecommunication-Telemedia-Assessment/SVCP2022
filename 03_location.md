@@ -23,7 +23,6 @@ Demos will be in other places near Medialab II.
 
 ## Accommodations
 
-_will be updated soon_
 ### Hotel Tanne Ilmenau
 The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 
 Several rooms has been reserved for the workshop period:
