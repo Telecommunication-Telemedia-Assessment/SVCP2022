@@ -30,7 +30,7 @@ Preliminary price: 200€ incl. Coffee, Lunchs, and Networking Dinner
 * Pre-School Event: evening of **03 July 2022**
 * Summer School: **04 -- 05 July 2022** 
 
-* Submission deadline: 25 April 2022
+* Submission deadline: 08 May 2022
 * Registration opens: 15 May 2022
 * Registration closes: 13 June 2022
 
