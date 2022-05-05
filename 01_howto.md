@@ -21,18 +21,20 @@ For the submission, a title, an abstract (200 words), the name of the author(s),
 
 **<a href="https://forms.gle/AXNcvgL7TkZaFQrL6" target="_blank">Submission link</a>**  
 
+* Submission deadline: 08 May 2022
+
 ## Registration
 **REGISTRATION and PAYMENT LINK** _will be added soon_
 
 Preliminary price: 200€ incl. Coffee, Lunchs, and Networking Dinner
 
+* Registration opens: 15 May 2022
+* Registration closes: 13 June 2022
+
 ## Important Dates
 * Pre-School Event: evening of **03 July 2022**
 * Summer School: **04 -- 05 July 2022** 
 
-* Submission deadline: 08 May 2022
-* Registration opens: 15 May 2022
-* Registration closes: 13 June 2022
 
 ## Awards
 
