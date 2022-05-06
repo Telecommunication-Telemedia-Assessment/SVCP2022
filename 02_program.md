@@ -38,9 +38,9 @@ _details will be announced soon_
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;font-size:20px;vertical-align:top}
-.tg .tg-ztdv{border-color:#ffffff;font-family:inherit;font-size:20px;text-align:center;vertical-align:middle}
-.tg .tg-sd0v{border-color:#ffffff;font-family:inherit;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-ztdv{border-color:#ffffff;font-family:inherit;text-align:center;vertical-align:middle}
+.tg .tg-sd0v{border-color:#ffffff;font-family:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
