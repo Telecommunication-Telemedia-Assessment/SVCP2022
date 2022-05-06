@@ -57,6 +57,34 @@ _details will be announced soon_
 </table>
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-ztdv{border-color:#ffffff;font-family:inherit;text-align:center;vertical-align:top}
+.tg .tg-sd0v{border-color:#ffffff;font-family:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-sd0v"><b>Speaker:</b> Christian Feldmann</td>
+    <td class="tg-ztdv" rowspan="4"><br><img src="/SVCP2022/assets/images/keynote_speaker.jpg" width="800"/>  </td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">**Title:** Video Coding in the Cloud – Challenges and Solutions</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">**Abstract:** After the rise of video streaming over the internet (OTT) more and more workflows for video transcoding and distribution are moving to the cloud. While this combination can be a match made in heaven, it is full of challenges like a multitude of different video and codecs, streaming container formats, subtitle formats, etc. The talk will give an overview of the transcoding landscape and the biggest challenges that we and our customers are facing. We will talk about codecs and device compatibility, cloud infrastructure, encoders and how some of the biggest names in streaming are trying to solve these problems.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"> <b> About Christian Feldmann:</b> He is a video coding engineer at Bitmovin working on next generation video coding technologies in the most recent video coding standards, such as HEVC, VVC and AV1. His main focus points at Bitmovin are practical application of video and transport standards in the scalable cloud transcoding solution. After his study of computer engineering at RWTH University Aachen, he completed his doctoral degree (PhD) at the Institut für Nachrichtentechnik (Institute for Communication Technologies) in Aachen. With his detailed experience in video coding, he is developing video coding technologies for the future of video coding. Christian participates in the standardization activities of the Moving Picture Experts Group (MPEG).</td>
+  </tr>
+</thead>
+</table>
+
 ## Social Event
 It is planned to have a networking hike towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, a joint dinner will take place. 
 
