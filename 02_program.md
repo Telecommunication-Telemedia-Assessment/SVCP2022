@@ -50,7 +50,7 @@ _details will be announced soon_
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-zv4m">**About Christian Feldmann:** He is a video coding engineer at Bitmovin working on next generation video coding technologies in the most recent video coding standards, such as HEVC, VVC and AV1. His main focus points at Bitmovin are practical application of video and transport standards in the scalable cloud transcoding solution. After his study of computer engineering at RWTH University Aachen, he completed his doctoral degree (PhD) at the Institut für Nachrichtentechnik (Institute for Communication Technologies) in Aachen. With his detailed experience in video coding, he is developing video coding technologies for the future of video coding. Christian participates in the standardization activities of the Moving Picture Experts Group (MPEG).</td>
+    <td class="tg-zv4m"> <b> About Christian Feldmann:</b> He is a video coding engineer at Bitmovin working on next generation video coding technologies in the most recent video coding standards, such as HEVC, VVC and AV1. His main focus points at Bitmovin are practical application of video and transport standards in the scalable cloud transcoding solution. After his study of computer engineering at RWTH University Aachen, he completed his doctoral degree (PhD) at the Institut für Nachrichtentechnik (Institute for Communication Technologies) in Aachen. With his detailed experience in video coding, he is developing video coding technologies for the future of video coding. Christian participates in the standardization activities of the Moving Picture Experts Group (MPEG).</td>
     <td class="tg-8jgo"> ![Christian Feldmann](/assets/images/keynote-speaker.jpg)  </td>
   </tr>
 </thead>
