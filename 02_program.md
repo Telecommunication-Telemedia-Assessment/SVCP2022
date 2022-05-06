@@ -43,7 +43,23 @@ _details will be announced soon_
 
 <img src="/assets/images/keynote_speaker.jpg" alt="Christian Feldmann" width="200"/>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-zv4m">text</td>
+    <td class="tg-8jgo">bild</td>
+  </tr>
+</thead>
+</table>
 
 ## Social Event
 It is planned to have a networking hike towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, a joint dinner will take place. 
