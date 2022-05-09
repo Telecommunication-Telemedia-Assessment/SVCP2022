@@ -26,9 +26,10 @@ photo: "hearling_lab.jpg"
 
 ## Pre-School Event
 The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
+
 <a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 7 p.m.
 
-_details will be announced soon_ 
+This event is mostly there for the PhD students to meet and exchange before the actual summer school starts. 
 
 ## Keynote/Invited Lecture
 
@@ -82,6 +83,8 @@ _to be announced_
 ## Session 9
 _to be announced_
 
+## Demos 
+_to be announced_
 
 <!--
 **TODO**
