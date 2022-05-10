@@ -24,9 +24,12 @@ For the submission, a title, an abstract (200 words), the name of the author(s),
 Submission deadline: 08 May 2022
 
 ## Registration
-**REGISTRATION and PAYMENT LINK** _will be added soon_
+**REGISTRATION and PAYMENT LINK** _will be added soon_    
+<!--
+https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
+-->
 
-Preliminary price: 200€ incl. Coffee, Lunchs, and Networking Dinner
+Price: 200€ incl. Coffee, Lunchs, and Networking Dinner
 
 Registration is possible from 15 May 2022 until 13 June 2022.
 
