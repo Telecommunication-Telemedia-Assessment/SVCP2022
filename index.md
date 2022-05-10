@@ -26,7 +26,7 @@ The aim is to bring together young researchers with similar topics and provide a
 * Pre-School Event: evening of **03 July 2022** 
 * Summer School: **04 -- 05 July 2022** 
 
-* [Submission](01_howto.md) deadline: 08 May 2022
+* Submission period has ended.
 * Registration 15 May 2022 -- 13 June 2022
 
 ## Organizers 
