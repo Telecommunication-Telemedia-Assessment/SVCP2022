@@ -27,7 +27,7 @@ The aim is to bring together young researchers with similar topics and provide a
 * Summer School: **04 -- 05 July 2022** 
 
 * Submission period has ended.
-* Registration 15 May 2022 -- 13 June 2022
+* Registration 20 May 2022 -- 13 June 2022
 
 ## Organizers 
 
