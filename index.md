@@ -36,12 +36,7 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
 
-<!--
+
 ## Sponsors
 
-![technoteam logo](/assets/images/technoteam.png) 
-
-
--->
-
- 
+![technoteam logo](/assets/images/technoteam.png)  
