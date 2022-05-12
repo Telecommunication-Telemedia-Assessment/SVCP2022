@@ -32,7 +32,7 @@ https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 
 Price: 200€ incl. Coffee, Lunchs, and Networking Dinner
 
-Registration is possible from 15 May 2022 until 13 June 2022.
+Registration is possible from 20 May 2022 until 13 June 2022.
 
 ## Summer School Dates
 * Pre-School Event: evening of **03 July 2022**
