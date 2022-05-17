@@ -39,4 +39,4 @@ ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
 
-![technoteam logo](/assets/images/technoteam.png)  
+[![technoteam logo](/assets/images/technoteam.png)](https://www.technoteam.de/)
