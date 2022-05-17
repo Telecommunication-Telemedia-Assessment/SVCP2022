@@ -6,30 +6,30 @@ photo: "hearling_lab.jpg"
 ---
 
 
-| Time          | Sunday, **03 July 2022**   | Monday, **04 July 2022**    	| Tuesday, **05 July 2022**  |
-| ======        | ========================== | =========================== 	| ========================== |
-| 08:00  	   	|                            | Registration and Preparation	| Preparation				 |	
-| 09:00 	   	|                            | Welcome and Keynote         	| Session 7	    			 |
-| 10:00        	|                            | Session 1                 	| _Coffee Break_ and Demos 	 |
-| 10:45			|                            | _Coffee Break_ and Demos	   	| Session 8				     |
-| 11:30			|                            | Session 2					| Session 9        			 |
-| 12:15			|                            | Session 3					| Summary and Closure		 |
-| 13:00			|                            | _Lunch Break_ at Mensa		| Networking _Lunch_ at ML2  |
-| 14:00			|                            | Session 4					|                            |
-| 14:45			| 				             | Session 5					| potential departure		 |
-| 15:30			| 				             | _Coffee Break_ and Demos	   	|                            |
-| 16:15			| potential arrival			 | Session 6					|                            |
-| 17:30			| 				             | Networking Hike to Gabelbach |                            |
-| 19:00			| Pre-School Event at BC club| Social Event at Gabelbach	|                            |
+| Sunday, **03 July 2022**   | Monday, **04 July 2022**   		 	| Tuesday, **05 July 2022**   	  |
+| ========================== | ================================ 	| ==========================  	  |
+| 		 		             | 08:00 Registration and Preparation	| 08:00 Preparation			   	  |	
+| 			   	             | 09:00 Welcome and Keynote         	| 09:00 Session 7: Image Coding	  |
+|	        	             | 10:00 Session 1: Point Clouds		| 10:00 _Coffee Break_ 		   	  |
+| 		                     | 10:45_Coffee Break_ and Demos	   	| 10:30 session 8: Video     	  |
+| 		                     | 11:30 Session 2: VVC Codec 			| 11:30 Session 9: 360° video	  |
+| 		                     | 12:15 Session 3: SQoE				| 12:15 Summary and Closure	 	  |
+| 		                     | 13:00 _Lunch Break_ at Mensa			| 13:00 Networking _Lunch_ at ML2 |
+|		                     | 14:00 Session 4: Video Compression	|                            	  |
+| 				             | 14:45 Session 5: Film and Camera 	| Departure		 				  |
+| 				             | 15:30 _Coffee Break_ and Demos	   	|                                 |
+| Arrival	 			     | 16:15 Session 6: Image and Networks	|                            	  |
+| 				             | 17:30 Networking Hike to Gabelbach	|                            	  |
+| 19:00	Pre-Event at BC club | 19:30 Social Event at Gabelbach		|                    	          |
 
 
 
 ## Pre-School Event
 The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
 
-<a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 7 p.m.
+<a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 19:00
 
-This event is mostly there for the PhD students to meet and exchange before the actual summer school starts. 
+You will receive a Welcome Snack from the barbecue and will get free entry to the club's wine evening. This event is for the PhD students to meet and greet and exchange before the actual summer school starts. 
 
 ## Keynote/Invited Lecture
 
@@ -62,25 +62,25 @@ This event is mostly there for the PhD students to meet and exchange before the 
 </table>
 
 ## Social Event
-It is planned to have a networking hike towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, a joint dinner will take place. 
+It is planned to have a 2 hour networking hike (tour: https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, an included joint dinner will take place. 
 
-## Session 1
+## Session 1: Point Clouds
 _to be announced_
-## Session 2
+## Session 2: Usage of the VVC Codec 
 _to be announced_
-## Session 3
+## Session 3: Sustainable QoE
 _to be announced_
-## Session 4
+## Session 4: Video Compression Performance
 _to be announced_
-## Session 5
+## Session 5: Film Look and Camera
 _to be announced_
-## Session 6
+## Session 6: Image and Networks
 _to be announced_
-## Session 7
+## Session 7: Image Coding
 _to be announced_
-## Session 8
+## Session 8: Video
 _to be announced_
-## Session 9
+## Session 9: 360° video
 _to be announced_
 
 ## Demos 
