@@ -21,7 +21,7 @@ The Summer School will take place at the Hans-Stamm-Campus location of TU Ilmena
 
 Demos will be in other places near Medialab II.
 
-## Accommodations
+## Accommodation
 
 ### Hotel Tanne Ilmenau
 The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 

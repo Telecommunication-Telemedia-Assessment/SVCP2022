@@ -30,7 +30,7 @@ Submission period has ended.
 https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 -->
 
-Price: 200€ incl. Coffee, Lunchs, and Networking Dinner
+Price: 200€ incl. Coffee, Lunchs, and Social Event. 
 
 Registration is possible from 20 May 2022 until 13 June 2022.
 
