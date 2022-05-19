@@ -25,7 +25,7 @@ Submission period has ended.
 
 ## Options of attendance
 With an accepted abstract, you have two different options of presenting your work: 
-* a 10 minute presentation followed by 5 minutes of questions and answers
+* an presentation followed by a questions and answer round
 * a prepared poster that you can present to interested attendees in specific poster sessions.
 
 If there are still attendance slots open, there will be an option to also attend without presenting work.
