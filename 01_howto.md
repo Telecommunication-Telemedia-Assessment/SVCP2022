@@ -23,6 +23,11 @@ Submission period has ended.
 
 <!-- **<a href="https://forms.gle/AXNcvgL7TkZaFQrL6" target="_blank">Submission link</a>**  -->
 
+## Options of attendance
+With an accepted abstract, you have two different options of presenting your work: 
+* a 10 minute presentation followed by 5 minutes of questions and answers
+* a prepared poster that you can present to interested attendees in specific poster sessions.
+* if there are still attendance slots open, there will be an option to also attend without presenting work.
 
 ## Registration
 **REGISTRATION and PAYMENT LINK** _will be added soon_    
@@ -39,10 +44,13 @@ Registration is possible from 20 May 2022 until 13 June 2022.
 * Summer School: **04 -- 05 July 2022** 
 
 
+
+
 ## Awards
 
 ### Best Presentation Award
-Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation. 
+Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation.
+Note: As of now, only attendees choosing the presentation option can win this award. 
 
 _other awards may be announced later_
 
