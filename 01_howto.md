@@ -27,7 +27,8 @@ Submission period has ended.
 With an accepted abstract, you have two different options of presenting your work: 
 * a 10 minute presentation followed by 5 minutes of questions and answers
 * a prepared poster that you can present to interested attendees in specific poster sessions.
-* if there are still attendance slots open, there will be an option to also attend without presenting work.
+
+If there are still attendance slots open, there will be an option to also attend without presenting work.
 
 ## Registration
 **REGISTRATION and PAYMENT LINK** _will be added soon_    
