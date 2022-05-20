@@ -5,7 +5,7 @@ permalink: /program/
 photo: "hearling_lab.jpg"
 ---
 
-Preliminary planning, to be refined after regristation of participants.
+Preliminary planning, to be refined after registration of participants.
 
 
 | Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 		| Tuesday, **05 July 2022**   	  		|
