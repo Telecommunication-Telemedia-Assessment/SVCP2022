@@ -5,6 +5,8 @@ permalink: /program/
 photo: "hearling_lab.jpg"
 ---
 
+Preliminary planning, to be refined after regristation of participants.
+
 
 | Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 		| Tuesday, **05 July 2022**   	  		|
 | ==========================	  | ================================ 		| ==========================  	  		|
@@ -64,6 +66,7 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
 ## Social Event
 It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, an included joint dinner will take place. 
 
+# Sessions (preliminary)
 ## Session 1: Point Clouds
 _to be announced_
 ## Session 2: Usage of the VVC Codec 
