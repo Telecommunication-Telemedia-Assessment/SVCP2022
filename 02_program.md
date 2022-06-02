@@ -64,22 +64,27 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
 It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, an included joint dinner will take place. 
 
 # Sessions
+
 <!--
 see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXnKV_wxrs
 -->
 
 ## Session 1: Video Compression Performance
 _to be announced_
+
 <!--
 * Christian Herglotz: Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons 
 * Sophie Pientka: Rate-Distortion-Optimization for Deep Image Compression
 -->
+
 ## Session 2: Sustainable QoE 
 _to be announced_
+
 <!--
 * Matthias Kränzler: Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration
 * Geetha Ramasubbu: Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process
 -->
+
 ## Session 3: Usage of the VVC Codec 
 _to be announced_
 <!--
