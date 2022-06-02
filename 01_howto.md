@@ -46,7 +46,6 @@ Registration is possible from 20 May 2022 until 13 June 2022.
 
 
 
-
 ## Awards
 
 ### Best Presentation Award

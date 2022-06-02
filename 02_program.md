@@ -5,24 +5,21 @@ permalink: /program/
 photo: "hearling_lab.jpg"
 ---
 
-Preliminary planning, to be refined after registration of participants.
 
-
-| Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 		| Tuesday, **05 July 2022**   	  		|
-| ==========================	  | ================================ 		| ==========================  	  		|
-| 		 		            	  | **08:00** Registration and Preparation	| **08:30** Preparation			   	  	|	
-| 			   	             	  | **09:00** Welcome and Keynote         	| **09:00** Session 7: Image Coding	  	|
-|	        	             	  | **10:00** Session 1: Point Clouds		| **10:00** _Coffee Break_ 		   	  	|
-| 		                     	  | **10:45** _Coffee Break_ and Demos	   	| **10:30** Session 8: Video     	  	|
-| 		                     	  | **11:30** Session 2: VVC Codec 			| **11:30** Session 9: 360° video	  	|
-| 		                     	  | **12:15** Session 3: SQoE				| **12:15** Summary and Closure	 	  	|
-| 		                    	  | **13:00** _Lunch Break_ at Mensa		| **13:00** Networking _Lunch_ at ML2 	|
-|		                    	  | **14:00** Session 4: Video Compression	|                            	  		|
-| 				             	  | **14:45** Session 5: Film and Camera 	| Departure		 				 		|
-| 				            	  | **15:30** _Coffee Break_ and Demos	   	|                                	 	|	
-| Arrival	 		        	  | **16:15** Session 6: Image and Networks	|                            	 	    |
-| 				           		  | **17:30** Networking Hike to Gabelbach	|                            	   		|
-| **19:00**	Pre-Event at BC club  | **19:30** Social Event at Gabelbach		|                    	          		|
+| Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 			| Tuesday, **05 July 2022**   	  					|
+| ==========================	  | ================================ 			| ==========================  	  					|
+| 		 		            	  | **08:00** Registration and Preparation		| **08:30** Preparation			   	  				|
+| 			   	             	  | **09:00** Welcome and Keynote         		| **09:00** Session 6: Image Coding	  				|
+|	        	             	  | **10:00** Session 1: Video Compression		| **10:20** _Coffee Break_ and Demos    			|
+| 		                     	  | **10:40** _Coffee Break_ and Demos	   		| **11:00** Session 7: Film Look					|
+| 		                     	  | **11:20** Session 2: SQoE	 				| **11:40** Session 8: 360° Video and Point Clouds	|
+| 		                     	  | **12:00** Session 3: VVC Codec				| **12:20** Summary and Closure		 				|
+| 		                    	  | **13:00** _Lunch Break_ at Mensa			| **13:00** Networking _Lunch_ at ML2				|
+|		                    	  | **14:00** Session 4: Image and Networks		| 													|
+| 				             	  | **15:20** Poster Session + _Coffee break_	| Departure  					 					|
+| Arrival			           	  | **16:20** Session 5: Video					| 			                      	 				|
+| 			 		        	  | **17:45** Networking Hike to Gabelbach		|                            	 	    			|
+| **19:00**	Pre-Event at BC club  | **19:45** Social Event at Gabelbach			|                            	   					|
 
 
 
@@ -40,7 +37,7 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}	
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-ztdv{border-color:#ffffff;font-family:inherit;text-align:center;vertical-align:middle}
 .tg .tg-sd0v{border-color:#ffffff;font-family:inherit;text-align:left;vertical-align:top}
@@ -66,25 +63,65 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
 ## Social Event
 It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, an included joint dinner will take place. 
 
-# Sessions (preliminary)
-## Session 1: Point Clouds
+# Sessions
+<!--
+see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXnKV_wxrs
+-->
+
+## Session 1: Video Compression Performance
 _to be announced_
-## Session 2: Usage of the VVC Codec 
+<!--
+* Christian Herglotz: Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons 
+* Sophie Pientka: Rate-Distortion-Optimization for Deep Image Compression
+-->
+## Session 2: Sustainable QoE 
 _to be announced_
-## Session 3: Sustainable QoE
+<!--
+* Matthias Kränzler: Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration
+* Geetha Ramasubbu: Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process
+-->
+## Session 3: Usage of the VVC Codec 
 _to be announced_
-## Session 4: Video Compression Performance
+<!--
+* Nicolas Horst: New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures
+* Martin Benjak: Neural Network-based Error Concealment for B-Frames in VVC
+* Adam Wieckowski: Encoding complexity analysis through the measurement of the search space
+-->
+## Session 4: Image and Networks
 _to be announced_
-## Session 5: Film Look and Camera
+<!--
+* Simon Grosche: Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network
+* Frank Sippel: Camera Array for Multispectral Imaging
+* Konstantin Schmidt: Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution
+* Ulrike, Pestel-Schiller: Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
+-->
+## Session 5: Video
 _to be announced_
-## Session 6: Image and Networks
+<!--
+* Goluck Konuko: Ultra-low Bitrate Video Compression using Deep Image Animation
+* Marta Milovanovic: Hybrid Method for Patch-depth Transmission in MPEG Immersive Video
+* Smitha Lingadahalli Ravi: DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators 
+-->
+## Session 6: Image Coding
 _to be announced_
-## Session 7: Image Coding
+<!--
+* Maximiliane Gruber: Domain Adaptation for Unknown Image Distortions
+* Shabhrish Reddy Uddehal: Image Segmentation for Improved Lossless Screen Content Compression
+* Marwa Tarchouli: Patch-based Image Coding with End-to-End Learned Codec using Overlapping
+* Daniel Gritzner: Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
+-->
+## Session 7: Film Look
 _to be announced_
-## Session 8: Video
+<!--
+* Dominik Keller: Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ? 
+* Zoubida Ameur: Deep-learning based film grain generation and removal
+-->
+## Session 8: 360° Video and Point Clouds
 _to be announced_
-## Session 9: 360° video
-_to be announced_
+<!--
+* Viktoria Heimann: Point Cloud Upsampling Using Frequency-Based Models
+* Andy Regensky: Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
+-->
 
 ## Demos 
 _to be announced_
