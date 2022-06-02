@@ -87,46 +87,69 @@ _to be announced_
 
 ## Session 3: Usage of the VVC Codec 
 _to be announced_
+
+
 <!--
 * Nicolas Horst: New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures
 * Martin Benjak: Neural Network-based Error Concealment for B-Frames in VVC
 * Adam Wieckowski: Encoding complexity analysis through the measurement of the search space
 -->
+
+
 ## Session 4: Image and Networks
 _to be announced_
+
+
 <!--
 * Simon Grosche: Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network
 * Frank Sippel: Camera Array for Multispectral Imaging
 * Konstantin Schmidt: Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution
 * Ulrike, Pestel-Schiller: Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
 -->
+
+
 ## Session 5: Video
 _to be announced_
+
+
 <!--
 * Goluck Konuko: Ultra-low Bitrate Video Compression using Deep Image Animation
 * Marta Milovanovic: Hybrid Method for Patch-depth Transmission in MPEG Immersive Video
 * Smitha Lingadahalli Ravi: DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators 
 -->
+
+
 ## Session 6: Image Coding
 _to be announced_
+
+
 <!--
 * Maximiliane Gruber: Domain Adaptation for Unknown Image Distortions
 * Shabhrish Reddy Uddehal: Image Segmentation for Improved Lossless Screen Content Compression
 * Marwa Tarchouli: Patch-based Image Coding with End-to-End Learned Codec using Overlapping
 * Daniel Gritzner: Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
 -->
+
+
 ## Session 7: Film Look
 _to be announced_
+
+
 <!--
 * Dominik Keller: Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ? 
 * Zoubida Ameur: Deep-learning based film grain generation and removal
 -->
+
+
 ## Session 8: 360° Video and Point Clouds
 _to be announced_
+
+
 <!--
 * Viktoria Heimann: Point Cloud Upsampling Using Frequency-Based Models
 * Andy Regensky: Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
 -->
+
 
 ## Demos 
 _to be announced_
