@@ -31,7 +31,7 @@ With an accepted abstract, you have two different options of presenting your wor
 If there are still attendance slots open, there will be an option to also attend without presenting work.
 
 ## Registration
-**REGISTRATION and PAYMENT LINK** _will be added soon_    
+**REGISTRATION and PAYMENT LINK** is given out on request only. If you are interested in participating without speaking, please write to svcp2022@tu-ilmenau.de
 <!--
 https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 -->
