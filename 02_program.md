@@ -116,6 +116,16 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 * Viktoria Heimann: Point Cloud Upsampling Using Frequency-Based Models
 * Andy Regensky: Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
 
+## Poster Session
+
+* Fabian Brand: Rate-Distortion Optimized Deep Image Compression
+* Kristian Fischer: Boosting Neural Image Compression for Machines Using Latent Space Masking
+* Thibaut Meyer: Point Cloud Attribute Coding using Graph Representations
+* Melan Vijayaratnam: Towards zero latency video transmission through frame extrapolation
+* Dominik Mehlem: Entropy Coding of Neural Network Latent Space Coefficients for Point Clouds
+* Tomasz Konaszynski: Analysis of context factors affecting human perceptions of 360º video quality
+* Ashutosh Singla: Holistic Assessment of 360° Video QoE
+
 ## Demos 
 
 ### Hearing in Mixed Reality
