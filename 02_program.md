@@ -70,100 +70,68 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 -->
 
 ## Session 1: Video Compression Performance
-_to be announced_
 
-<!--
 * Christian Herglotz: Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons 
 * Sophie Pientka: Rate-Distortion-Optimization for Deep Image Compression
--->
 
 ## Session 2: Sustainable QoE 
-_to be announced_
 
-<!--
 * Matthias Kränzler: Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration
 * Geetha Ramasubbu: Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process
--->
 
 ## Session 3: Usage of the VVC Codec 
-_to be announced_
 
-
-<!--
 * Nicolas Horst: New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures
 * Martin Benjak: Neural Network-based Error Concealment for B-Frames in VVC
 * Adam Wieckowski: Encoding complexity analysis through the measurement of the search space
--->
-
 
 ## Session 4: Image and Networks
-_to be announced_
 
-
-<!--
 * Simon Grosche: Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network
 * Frank Sippel: Camera Array for Multispectral Imaging
 * Konstantin Schmidt: Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution
-* Ulrike, Pestel-Schiller: Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
--->
-
+* Ulrike Pestel-Schiller: Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
 
 ## Session 5: Video
-_to be announced_
 
-
-<!--
 * Goluck Konuko: Ultra-low Bitrate Video Compression using Deep Image Animation
 * Marta Milovanovic: Hybrid Method for Patch-depth Transmission in MPEG Immersive Video
 * Smitha Lingadahalli Ravi: DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators 
--->
-
 
 ## Session 6: Image Coding
-_to be announced_
 
-
-<!--
 * Maximiliane Gruber: Domain Adaptation for Unknown Image Distortions
 * Shabhrish Reddy Uddehal: Image Segmentation for Improved Lossless Screen Content Compression
 * Marwa Tarchouli: Patch-based Image Coding with End-to-End Learned Codec using Overlapping
 * Daniel Gritzner: Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
--->
 
 
 ## Session 7: Film Look
-_to be announced_
 
-
-<!--
 * Dominik Keller: Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ? 
 * Zoubida Ameur: Deep-learning based film grain generation and removal
--->
-
 
 ## Session 8: 360° Video and Point Clouds
-_to be announced_
 
-
-<!--
 * Viktoria Heimann: Point Cloud Upsampling Using Frequency-Based Models
 * Andy Regensky: Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
--->
-
 
 ## Demos 
-_to be announced_
 
-<!--
-**TODO**
--->
-
-<!--
-* lab tours (AVLabs, hearing lab, medialab II)
-* maybe hiking to a restaurant?
-
-* Lab-Tours & Get-Together: On Sunday, 25 July, there was a Get-Together, including technical tours at the 3IT, CINIQ as well as in the TiME-Lab where participants learned more about the work of the Fraunhofer HHI and its partners.
-
-* Spree Boat Tour: Participants of the Summer School were taken on an evening boat tour on the river Spree in Berlin, where they were treated to a delicious barbecue. The relaxed atmosphere gave them the chance to further exchange ideas after a day of fruitful discussions and to get to know each other even more, while enjoying a beautiful trip through the center of the city.
-
--->
+### Hearing in Mixed Reality
+A current trend in research and development is the extension of reality by adding artificial, virtual objects to realize mixed reality and augmented reality. The lab tour deals with methods and possibilities of measurement and auralization for the creation of virtual audio objects in the real listening environment. An audio system is presented in a practical way, in which all essential components for audio augmented reality are included, from recording to signal analysis and signal processing to playback. In addition to the headphone-based dynamic binaural audio reproduction, an (ambisonic-based) 22.2 loudspeaker reproduction will be presented, which gives an insight into the current loudspeaker-based sound reproduction of e.g. cinemas.
+### IVE for educational research
+The Immersive Virtual Environments (IVE) presented in this demo are developed at TU Ilmenau to investigate the suitability of audio-visual IVEs for a "real-world" assessment of the influence of the visuospatial and acoustic environment on cognitive performance of adults and children in classroom-type environments. There are two different visual representations: 360° video and a CGI model, while we will compare both visualizations with regard to the influence on quality, noise and spatial audio for different paradigms.
+### Co-Presence for Seniors
+An overview of the CO-HUMANICS project goals and its current research stage will be given focusing on the factors impacting QoE in AR/MR and robot-based telepresence.
+### Immersive Audiovisual Communication - Meeting in VR
+IVEs promise to be an ideal medium for performing and studying group communication in a variety of situations. In an ongoing project, we aim to identify and gain a robust understanding of factors influencing plausibility and experience in multi-party audiovisual communication and interactive shared virtual environments. In this context, we assess plausibility, presence, quality as well as Quality of Experience (QoE) and develop methods for evaluation of such immersive systems. This demo shows a VR communication system that represents the basis for user studies conducted in our audiovisual test labs.
+### Mobile Groovability: How well does your phone groove?
+In a collaborative project from 2019 - 2021, we investigated the impact of smartphone acoustic reproduction on the perceived groove of music. Groove in this context is the human experience that motivates dance movements such as rhythmic nodding or foot tapping.
+In the present test, 8 different smartphones can be directly compared with each other based on various pieces of music.
+### HD studio direction in action
+We're proud to show our fully functioning HD studio direction.  
+### Student film productions
+We encourage students to produce short films, movies, music videos, and audio productions in our labs. In the audio direction, voice-overs can be recorded and media productions can be edited. Some students projects are shown. 
+### 4K HDR Reference Screen
+A professional reference monitor offers 4K HDR image quality, accuracy and consistency, making it perfect for demanding on-set, studio and post-production applications, including 4K digital film production.
