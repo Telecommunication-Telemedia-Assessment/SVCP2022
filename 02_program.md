@@ -8,7 +8,7 @@ photo: "hearling_lab.jpg"
 
 | Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 			| Tuesday, **05 July 2022**   	  					|
 | ==========================	  | ================================ 			| ==========================  	  					|
-| 		 		            	  | **08:00** Registration and Preparation		| **08:30** Preparation			   	  				|
+| 		 		            	  | **08:00** Registration and Preparation		| **08:30** Registration and Preparation			|
 | 			   	             	  | **09:00** Welcome and Keynote         		| **09:00** Session 6: Image Coding	  				|
 |	        	             	  | **10:00** Session 1: Video Compression		| **10:20** _Coffee Break_ and Demos    			|
 | 		                     	  | **10:40** _Coffee Break_ and Demos	   		| **11:00** Session 7: Film Look					|
