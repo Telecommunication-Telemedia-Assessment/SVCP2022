@@ -12,12 +12,10 @@ Ilmenau can be easily reached with Deutsche Bahn via ICE stop in Erfurt.
 There are hourly trains going from Ilmenau to Erfurt and vice versa. 
 The Summer School will take place at the Hans-Stamm-Campus location of TU Ilmenau. 
 
-* Location 1: **Medialab II (ML2) (Room 104), Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
+**Medialab II (ML2) (Room 104), Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show map</a></small>
 
-* Location 2: **Conference Room Zuse Building, Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
-    * ask at the reception in Medialab II
 
 Demos will be in other places near Medialab II.
 
@@ -38,7 +36,7 @@ In order to arrange your stay, please reserve your room with the keyword "SVCP 2
 All booking requests are handled by the hotel on a first come first served basis.
 
 
-### Other Accommodations
+### Other Accommodation
 In case you prefer other accommodation possibilities, the city of Ilmenau and its surroundings offer further hotels, guest houses, private rooms, apartments etc. You can find a list here:
 
 * [Hotel Mara](https://www.mara-hotel.de/)

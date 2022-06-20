@@ -25,26 +25,26 @@ Submission period has ended.
 
 ## Options of attendance
 With an accepted abstract, you have two different options of presenting your work: 
-* an oral presentation followed by a Q/A session
-* a prepared poster that you can present to interested attendees in specific poster sessions.
+* an oral presentation: 15 minutes long plus 4 minutes of Q&A
+* a prepared poster that you can present to interested attendees in a specific poster session (poster format: upright, maximum size 70cm x 100cm)
 
 If there are still attendance slots open, there will be an option to also attend without presenting work.
 
 ## Registration
-**REGISTRATION and PAYMENT LINK** is given out on request only. If you are interested in participating without speaking, please reach out to [us](mailto:svcp2022@tu-ilmenau.de).
+
+Registration period has ended. Send a mail to <a href="mailto:svcp2022@tu-ilmenau.de">The local organizing committee</a> if you want to be on a short-notice waiting list.
+
 <!--
+**REGISTRATION and PAYMENT LINK** is given out on request only. If you are interested in participating without speaking, please reach out to [us](mailto:svcp2022@tu-ilmenau.de).
+
 https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 -->
 
 Price: 200€ incl. Coffee, Lunchs, and Social Event. 
 
-Registration is possible from 20 May 2022 until 13 June 2022.
-
 ## Summer School Dates
 * Pre-School Event: evening of **03 July 2022**
 * Summer School: **04 -- 05 July 2022** 
-
-
 
 ## Awards
 

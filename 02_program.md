@@ -26,9 +26,9 @@ photo: "hearling_lab.jpg"
 ## Pre-School Event
 The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
 
-<a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> Starting time: 19:00
+<a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> **Starting time: 19:00**
 
-You will receive a Welcome Snack from the barbecue and will get free entry to the club's wine evening. This event is for the PhD students to meet and greet and exchange before the actual summer school starts. 
+You will receive a Welcome Snack from the barbecue and will get free entry to the club's Friday event. This event is for PhD students and others to meet and greet and exchange before the actual summer school starts. 
 
 ## Keynote/Invited Lecture
 
@@ -61,9 +61,8 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
 </table>
 
 ## Social Event
-It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 6 on Monday. There, an included joint dinner will take place. 
+It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 5 on Monday. There, an included joint dinner will take place. 
 
-# Sessions
 
 <!--
 see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXnKV_wxrs
@@ -104,7 +103,6 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 * Shabhrish Reddy Uddehal: Image Segmentation for Improved Lossless Screen Content Compression
 * Marwa Tarchouli: Patch-based Image Coding with End-to-End Learned Codec using Overlapping
 * Daniel Gritzner: Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
-
 
 ## Session 7: Film Look
 
