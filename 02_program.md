@@ -61,7 +61,7 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
 </table>
 
 ## Social Event
-It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/en/) right after Session 5 on Monday. There, an included joint dinner will take place. 
+It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/) right after Session 5 on Monday. There, an included joint dinner will take place. 
 
 
 <!--
