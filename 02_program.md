@@ -28,7 +28,7 @@ The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https
 
 <a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> **Starting time: 19:00**
 
-You will receive a Welcome Snack from the barbecue and will get free entry to the club's Friday event. This event is for PhD students and others to meet and greet and exchange before the actual summer school starts. 
+You will receive a Welcome Snack from the barbecue and will get free entry to the club's Sunday event. This event is for PhD students and others to meet and greet and exchange before the actual summer school starts. 
 
 ## Keynote/Invited Lecture
 
