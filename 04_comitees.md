@@ -9,7 +9,6 @@ photo: "header-silhouetten2_im_studio_michael_reichelt_1920q.jpg"
 
 * Prof. Dr.-Ing. André Kaup, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
 * Prof. Dr.-Ing. Jens-Rainer Ohm, RWTH Aachen University, Germany
-* Prof. Dr. Dietmar Saupe, University of Konstanz, Germany
 * Prof. Dr.-Ing. Alexander Raake, TU Ilmenau, Germany
 
 
@@ -21,7 +20,6 @@ Audiovisual Technology Group of Technische Universität Ilmenau
 * [Steve Göring, TU Ilmenau, Germany](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/team-fachgebiet-audiovisuelle-technik/steve-goering)
 * Luljeta Sinani, TU Ilmenau
 * Felix Immohr, TU Ilmenau
-* Rakesh Rao Ramachandra Rao, TU Ilmenau
 * Eckhardt Schön, TU Ilmenau 
 * [Dominik Keller, TU Ilmenau](https://www.tu-ilmenau.de/mt-avt/team-fachgebiet-audiovisuelle-technik/dominik-keller)
 
