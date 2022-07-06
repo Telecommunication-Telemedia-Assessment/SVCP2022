@@ -32,7 +32,7 @@ If there are still attendance slots open, there will be an option to also attend
 
 ## Registration
 
-Registration period has ended. Send a mail to <a href="mailto:svcp2022@tu-ilmenau.de">The local organizing committee</a> if you want to be on a short-notice waiting list.
+Registration period has ended.
 
 <!--
 **REGISTRATION and PAYMENT LINK** is given out on request only. If you are interested in participating without speaking, please reach out to [us](mailto:svcp2022@tu-ilmenau.de).
@@ -52,7 +52,6 @@ Price: 200€ incl. Coffee, Lunchs, and Social Event.
 Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation.
 Note: As of now, only attendees choosing the presentation option can win this award. 
 
-_other awards may be announced later_
 
 ### Joint Research Incubator Award
 Up to two awards will be given, each one comes with a certificate and a prize money of 1.000 Euro. 
