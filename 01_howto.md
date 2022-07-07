@@ -50,7 +50,10 @@ Price: 200€ incl. Coffee, Lunchs, and Social Event.
 
 ### Best Presentation Award
 Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation.
-Note: As of now, only attendees choosing the presentation option can win this award. 
+
+We congratulate **Andy Regensky** for his talk on "Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding" and **Goluck Konuko** for his talk on "Ultra-low Bitrate Video Compression using Deep Image Animation".
+
+
 
 
 ### Joint Research Incubator Award
