@@ -70,59 +70,59 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 
 ## Session 1: Video Compression Performance
 
-* Christian Herglotz: Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons 
-* Sophie Pientka: Rate-Distortion-Optimization for Deep Image Compression
+* Christian Herglotz (FAU Erlangen-Nürnberg): Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons 
+* Sophie Pientka (Fraunhofer HHI): Rate-Distortion-Optimization for Deep Image Compression
 
 ## Session 2: Sustainable QoE 
 
-* Matthias Kränzler: Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration
-* Geetha Ramasubbu: Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process
+* Matthias Kränzler (FAU Erlangen-Nürnberg): Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration
+* Geetha Ramasubbu (FAU Erlangen-Nürnberg): Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process
 
 ## Session 3: Usage of the VVC Codec 
 
-* Nicolas Horst: New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures
-* Martin Benjak: Neural Network-based Error Concealment for B-Frames in VVC
-* Adam Wieckowski: Encoding complexity analysis through the measurement of the search space
+* Nicolas Horst (RWTH Aachen): New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures
+* Martin Benjak (Leibniz Universität Hannover): Neural Network-based Error Concealment for B-Frames in VVC
+* Adam Wieckowski (Fraunhofer HHI): Encoding complexity analysis through the measurement of the search space
 
 ## Session 4: Image and Networks
 
-* Simon Grosche: Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network
-* Frank Sippel: Camera Array for Multispectral Imaging
-* Konstantin Schmidt: Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution
-* Ulrike Pestel-Schiller: Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
+* Simon Grosche (FAU Erlangen-Nürnberg): Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network
+* Frank Sippel (FAU Erlangen-Nürnberg): Camera Array for Multispectral Imaging
+* Konstantin Schmidt (Fraunhofer IIS): Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution
+* Ulrike Pestel-Schiller (Leibniz Universität Hannover): Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
 
 ## Session 5: Video
 
-* Goluck Konuko: Ultra-low Bitrate Video Compression using Deep Image Animation
-* Marta Milovanovic: Hybrid Method for Patch-depth Transmission in MPEG Immersive Video
-* Smitha Lingadahalli Ravi: DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators 
+* Goluck Konuko (CentraleSupélec Paris): Ultra-low Bitrate Video Compression using Deep Image Animation
+* Marta Milovanovic (Telecom Paris): Hybrid Method for Patch-depth Transmission in MPEG Immersive Video
+* Smitha Lingadahalli Ravi (INSA Rennes): DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators 
 
 ## Session 6: Image Coding
 
-* Maximiliane Gruber: Domain Adaptation for Unknown Image Distortions
-* Shabhrish Reddy Uddehal: Image Segmentation for Improved Lossless Screen Content Compression
-* Marwa Tarchouli: Patch-based Image Coding with End-to-End Learned Codec using Overlapping
-* Daniel Gritzner: Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
+* Maximiliane Gruber (FAU Erlangen-Nürnberg): Domain Adaptation for Unknown Image Distortions
+* Shabhrish Reddy Uddehal (Leipzig University of Telecommunications): Image Segmentation for Improved Lossless Screen Content Compression
+* Marwa Tarchouli (INSA Rennes): Patch-based Image Coding with End-to-End Learned Codec using Overlapping
+* Daniel Gritzner (Leibniz Universität Hannover): Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
 
 ## Session 7: Film Look
 
-* Dominik Keller: Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ? 
-* Zoubida Ameur: Deep-learning based film grain generation and removal
+* Dominik Keller (Technische Universität Ilmenau): Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ? 
+* Zoubida Ameur (INSA Rennes): Deep-learning based film grain generation and removal
 
 ## Session 8: 360° Video and Point Clouds
 
-* Viktoria Heimann: Point Cloud Upsampling Using Frequency-Based Models
-* Andy Regensky: Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
+* Viktoria Heimann (FAU Erlangen-Nürnberg): Point Cloud Upsampling Using Frequency-Based Models
+* Andy Regensky (FAU Erlangen-Nürnberg): Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
 
 ## Poster Session
 
-* Fabian Brand: Rate-Distortion Optimized Deep Image Compression
-* Kristian Fischer: Boosting Neural Image Compression for Machines Using Latent Space Masking
-* Thibaut Meyer: Point Cloud Attribute Coding using Graph Representations
-* Melan Vijayaratnam: Towards zero latency video transmission through frame extrapolation
-* Dominik Mehlem: Entropy Coding of Neural Network Latent Space Coefficients for Point Clouds
-* Tomasz Konaszynski: Analysis of context factors affecting human perceptions of 360º video quality
-* Ashutosh Singla: Holistic Assessment of 360° Video QoE
+* Fabian Brand (FAU Erlangen-Nürnberg): Rate-Distortion Optimized Deep Image Compression
+* Kristian Fischer (FAU Erlangen-Nürnberg): Boosting Neural Image Compression for Machines Using Latent Space Masking
+* Thibaut Meyer (RWTH Aachen): Point Cloud Attribute Coding using Graph Representations
+* Melan Vijayaratnam (Telecom Paris): Towards zero latency video transmission through frame extrapolation
+* Dominik Mehlem (RWTH Aachen): Entropy Coding of Neural Network Latent Space Coefficients for Point Clouds
+* Tomasz Konaszynski (AGH Krakow): Analysis of context factors affecting human perceptions of 360º video quality
+* Ashutosh Singla (Technische Universität Ilmenau): Holistic Assessment of 360° Video QoE
 
 ## Demos 
 
