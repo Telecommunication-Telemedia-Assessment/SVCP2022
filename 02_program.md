@@ -69,33 +69,32 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 -->
 
 ## Session 1: Video Compression Performance
-test
 * Christian Herglotz (FAU Erlangen-Nürnberg): [Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons](/SVCP2022/assets/pdfs/Session1/svcp_christian_Herglotz.pdf)
-* Sophie Pientka (Fraunhofer HHI): [Rate-Distortion-Optimization for Deep Image Compression](./SVCP2022/assets/pdfs/Session1/svcp_Sophie_Pientka.pdf)
+* Sophie Pientka (Fraunhofer HHI): [Rate-Distortion-Optimization for Deep Image Compression](/SVCP2022/assets/pdfs/Session1/svcp_Sophie_Pientka.pdf)
 
 ## Session 2: Sustainable QoE 
 
-* Matthias Kränzler (FAU Erlangen-Nürnberg): Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration
-* Geetha Ramasubbu (FAU Erlangen-Nürnberg): Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process
+* Matthias Kränzler (FAU Erlangen-Nürnberg): [Energy Efficient Video Decoding for VVC Using a Greedy Strategy Based Design Space Exploration](/SVCP2022/assets/pdfs/Session2/svcp_matthias_kraenzler.pdf)
+* Geetha Ramasubbu (FAU Erlangen-Nürnberg): [Investigation of the Impacts of Video and Encoding Parameters on the Encoding Energy of the HEVC Software Encoding Process](/SVCP2022/assets/pdfs/Session2/svcp_geetha_ramasubbu.pdf)
 
 ## Session 3: Usage of the VVC Codec 
 
-* Nicolas Horst (RWTH Aachen): New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures
-* Martin Benjak (Leibniz Universität Hannover): Neural Network-based Error Concealment for B-Frames in VVC
-* Adam Wieckowski (Fraunhofer HHI): Encoding complexity analysis through the measurement of the search space
+* Nicolas Horst (RWTH Aachen): [New Reference Subpicture Padding Techniques for Use with Independently Decodable Subpictures](/SVCP2022/assets/pdfs/Session3/svcp_Nicolas_Horst.pdf)
+* Martin Benjak (Leibniz Universität Hannover): [Neural Network-based Error Concealment for B-Frames in VVC](/SVCP2022/assets/pdfs/Session3/svcp_martin_benjak.pdf)
+* Adam Wieckowski (Fraunhofer HHI): [Encoding complexity analysis through the measurement of the search space](/SVCP2022/assets/pdfs/Session3/svcp_adam_wieckowski.pdf)
 
 ## Session 4: Image and Networks
 
-* Simon Grosche (FAU Erlangen-Nürnberg): Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network
-* Frank Sippel (FAU Erlangen-Nürnberg): Camera Array for Multispectral Imaging
-* Konstantin Schmidt (Fraunhofer IIS): Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution
-* Ulrike Pestel-Schiller (Leibniz Universität Hannover): Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN
+* Simon Grosche (FAU Erlangen-Nürnberg): [Applications of Non-Regular Image Sampling using  Locally Fully Connected Reconstruction Network](/SVCP2022/assets/pdfs/Session4/svcp_Simon_Grosche.pdf)
+* Frank Sippel (FAU Erlangen-Nürnberg): [Camera Array for Multispectral Imaging](/SVCP2022/assets/pdfs/Session4/svcp_frank_sippel.pdf)
+* Konstantin Schmidt (Fraunhofer IIS): [Comparing Generative Adversarial Networks and Normalizing Flow for Super-Resolution](/SVCP2022/assets/pdfs/Session4/svcp_Konstantin_Schmidt.pdf)
+* Ulrike Pestel-Schiller (Leibniz Universität Hannover): [Determination of Relevant Hyperspectral Bands using a Spectrally Constrained CNN](/SVCP2022/assets/pdfs/Session4/svcp_ulrike_pestel-schiller.pdf)
 
 ## Session 5: Video
 
-* Goluck Konuko (CentraleSupélec Paris): Ultra-low Bitrate Video Compression using Deep Image Animation
-* Marta Milovanovic (Telecom Paris): Hybrid Method for Patch-depth Transmission in MPEG Immersive Video
-* Smitha Lingadahalli Ravi (INSA Rennes): DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators 
+* Goluck Konuko (CentraleSupélec Paris): [Ultra-low Bitrate Video Compression using Deep Image Animation](/SVCP2022/assets/pdfs/Session5/svcp_goluck_konuko.pdf)
+* Marta Milovanovic (Telecom Paris): [Hybrid Method for Patch-depth Transmission in MPEG Immersive Video](/SVCP2022/assets/pdfs/Session5/svcp_marta_milovanovic.pdf)
+* Smitha Lingadahalli Ravi (INSA Rennes): [DIBR for Immersive Videos: Traditional Depth Estimators versus Learning-Based Depth Estimators ](/SVCP2022/assets/pdfs/Session5/svcp_smitha_lingadahalliravi.pdf)
 
 ## Session 6: Image Coding
 
