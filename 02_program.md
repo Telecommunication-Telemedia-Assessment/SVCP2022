@@ -71,7 +71,7 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 ## Session 1: Video Compression Performance
 
 * Christian Herglotz (FAU Erlangen-Nürnberg): [Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons](/SVCP2022/assets/pdfs/Session1/svcp_christian_Herglotz.pdf)
-* Sophie Pientka (Fraunhofer HHI): Rate-Distortion-Optimization for Deep Image Compression
+* Sophie Pientka (Fraunhofer HHI): [Rate-Distortion-Optimization for Deep Image Compression](./SVCP2022/assets/pdfs/Session1/svcp_Sophie_Pientka.pdf)
 
 ## Session 2: Sustainable QoE 
 
