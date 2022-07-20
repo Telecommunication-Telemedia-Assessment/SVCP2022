@@ -49,7 +49,7 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
     <td class="tg-ztdv" rowspan="4"><br><img src="/SVCP2022/assets/images/keynote_speaker.jpg" width="2000"/>  </td>
   </tr>
   <tr>
-    <td class="tg-zv4m"><b>Title:</b> [Video Coding in the Cloud – Challenges and Solutions](assets/pdfs/Keynote.pdf)</td>
+    <td class="tg-zv4m"><b>Title:</b> Video Coding in the Cloud – Challenges and Solutions</td>
   </tr>
   <tr>
     <td class="tg-zv4m"><b>Abstract:</b> After the rise of video streaming over the internet (OTT) more and more workflows for video transcoding and distribution are moving to the cloud. While this combination can be a match made in heaven, it is full of challenges like a multitude of different video and codecs, streaming container formats, subtitle formats, etc. The talk will give an overview of the transcoding landscape and the biggest challenges that we and our customers are facing. We will talk about codecs and device compatibility, cloud infrastructure, encoders and how some of the biggest names in streaming are trying to solve these problems.</td>
@@ -70,7 +70,7 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 
 ## Session 1: Video Compression Performance
 
-* Christian Herglotz (FAU Erlangen-Nürnberg): Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons 
+* Christian Herglotz (FAU Erlangen-Nürnberg): [Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons](/SVCP2022/assets/pdfs/Session1/svcp_christian_Herglotz.pdf)
 * Sophie Pientka (Fraunhofer HHI): Rate-Distortion-Optimization for Deep Image Compression
 
 ## Session 2: Sustainable QoE 
