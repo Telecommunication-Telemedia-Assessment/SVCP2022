@@ -115,13 +115,13 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 
 ## Poster Session
 
-* Fabian Brand (FAU Erlangen-Nürnberg): Rate-Distortion Optimized Deep Image Compression
-* Kristian Fischer (FAU Erlangen-Nürnberg): Boosting Neural Image Compression for Machines Using Latent Space Masking
-* Thibaut Meyer (RWTH Aachen): Point Cloud Attribute Coding using Graph Representations
-* Melan Vijayaratnam (Telecom Paris): Towards zero latency video transmission through frame extrapolation
-* Dominik Mehlem (RWTH Aachen): Entropy Coding of Neural Network Latent Space Coefficients for Point Clouds
-* Tomasz Konaszynski (AGH Krakow): Analysis of context factors affecting human perceptions of 360º video quality
-* Ashutosh Singla (Technische Universität Ilmenau): Holistic Assessment of 360° Video QoE
+* Fabian Brand (FAU Erlangen-Nürnberg): [Rate-Distortion Optimized Deep Image Compression](/SVCP2022/assets/pdfs/PosterSession/svcp_Fabian_Brand.pdf)
+* Kristian Fischer (FAU Erlangen-Nürnberg): [Boosting Neural Image Compression for Machines Using Latent Space Masking](/SVCP2022/assets/pdfs/PosterSession/svcp_Kristian_Fischer.pdf)
+* Thibaut Meyer (RWTH Aachen): [Point Cloud Attribute Coding using Graph Representations](/SVCP2022/assets/pdfs/PosterSession/svcp_Thibaut_Meyer.pdf)
+* Melan Vijayaratnam (Telecom Paris): [Towards zero latency video transmission through frame extrapolation](/SVCP2022/assets/pdfs/PosterSession/svcp_Melan_Vijayaratnam.pdf)
+* Dominik Mehlem (RWTH Aachen): [Entropy Coding of Neural Network Latent Space Coefficients for Point Clouds](/SVCP2022/assets/pdfs/PosterSession/svcp_Dominik_Mehlem.pdf)
+* Tomasz Konaszynski (AGH Krakow): [Analysis of context factors affecting human perceptions of 360º video quality](/SVCP2022/assets/pdfs/PosterSession/svcp_Tomasz_Konaszynski.pdf)
+* Ashutosh Singla (Technische Universität Ilmenau): [Holistic Assessment of 360° Video QoE](/SVCP2022/assets/pdfs/PosterSession/svcp_Ashutosh_Singla.pdf)
 
 ## Demos 
 
