@@ -98,20 +98,20 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 
 ## Session 6: Image Coding
 
-* Maximiliane Gruber (FAU Erlangen-Nürnberg): Domain Adaptation for Unknown Image Distortions
-* Shabhrish Reddy Uddehal (Leipzig University of Telecommunications): Image Segmentation for Improved Lossless Screen Content Compression
-* Marwa Tarchouli (INSA Rennes): Patch-based Image Coding with End-to-End Learned Codec using Overlapping
-* Daniel Gritzner (Leibniz Universität Hannover): Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images
+* Maximiliane Gruber (FAU Erlangen-Nürnberg): [Domain Adaptation for Unknown Image Distortions](/SVCP2022/assets/pdfs/Session6/svcp_maximiliane_gruber.pdf)
+* Shabhrish Reddy Uddehal (Leipzig University of Telecommunications): [Image Segmentation for Improved Lossless Screen Content Compression](/SVCP2022/assets/pdfs/Session6/svcp_Shabhrish_Uddehal.pdf)
+* Marwa Tarchouli (INSA Rennes): [Patch-based Image Coding with End-to-End Learned Codec using Overlapping](/SVCP2022/assets/pdfs/Session6/svcp_marwa_tarchouli.pdf)
+* Daniel Gritzner (Leibniz Universität Hannover): [Using Binary Space Partitioning for the Semantic Segmentation of Aerial Images](/SVCP2022/assets/pdfs/Session6/svcp_daniel_gritzner.pdf)
 
 ## Session 7: Film Look
 
-* Dominik Keller (Technische Universität Ilmenau): Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ? 
-* Zoubida Ameur (INSA Rennes): Deep-learning based film grain generation and removal
+* Dominik Keller (Technische Universität Ilmenau): [Application of sensory evaluation techniques in film - How do expert and non-expert evaluations differ?](/SVCP2022/assets/pdfs/Session7/svcp_Dominik_Keller.pdf)
+* Zoubida Ameur (INSA Rennes): [Deep-learning based film grain generation and removal](/SVCP2022/assets/pdfs/Session7/svcp_zoubida_ameur.pdf)
 
 ## Session 8: 360° Video and Point Clouds
 
-* Viktoria Heimann (FAU Erlangen-Nürnberg): Point Cloud Upsampling Using Frequency-Based Models
-* Andy Regensky (FAU Erlangen-Nürnberg): Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding
+* Viktoria Heimann (FAU Erlangen-Nürnberg): [Point Cloud Upsampling Using Frequency-Based Models](/SVCP2022/assets/pdfs/Session8/svcp_viktoria_heimann.pdf)
+* Andy Regensky (FAU Erlangen-Nürnberg): [Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding](/SVCP2022/assets/pdfs/Session8/svcp_andy_regensky.pdf)
 
 ## Poster Session
 
